@@ -1,4 +1,4 @@
-package user_Authentication_App.demo;
+package user.Authentication.security;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
